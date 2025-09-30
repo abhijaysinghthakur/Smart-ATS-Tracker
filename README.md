@@ -29,7 +29,8 @@ Designed to help job-seekers and recruiters automatically assess how well a resu
 ## 📂 Project Structure
 
 Smart-ATS-Tracker/
-├── app.py # Main Streamlit application where the ATS tracking logic runs
-├── requirements.txt # List of Python dependencies required to run the project
-├── README.md # Project documentation (this file)
-└── .env (example) # Sample environment variables file (not committed to repo)
+
+- `app.py` : Main Streamlit application where the ATS tracking logic runs.  
+- `requirements.txt` : Python dependencies required to run the project.  
+- `README.md` : Project documentation (this file).  
+- `.env (example)` : Sample environment variables file (should not be committed to repo)
