@@ -27,4 +27,8 @@ Designed to help job-seekers and recruiters automatically assess how well a resu
 ---
 
 ## 📂 Project Structure
-
+Smart-ATS-Tracker/
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+├── README.md # This file
+└── .env (example) # Environment variables (not committed to repo)
